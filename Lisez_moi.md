@@ -1,0 +1,4 @@
+- 👋 Hi, I’m William
+- 👀 I’m interested in sport, coding, nature
+- 🌱 I’m currently learning C++, nodeJS, Solidity
+- 👾 My github contain somes code I do for the university
