@@ -13,7 +13,6 @@
 	<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python">
 	<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
 	<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3">
-	<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" alt="Bootstrap">
 	<img src="https://img.shields.io/badge/-MySQL-03224C?style=flat-square&logo=mysql" alt="MySQL">
 	<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
 	<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" alt="NodeJS">
