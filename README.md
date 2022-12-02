@@ -19,6 +19,9 @@
 	<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
 	<img src="https://img.shields.io/badge/-Lua-0008FF?style=flat-square&logo=lua" alt="Lua">
 	<img src="https://img.shields.io/badge/-Swift-696969?style=flat-square&logo=swift" alt="Switf">
+	<img src="https://img.shields.io/badge/-C++-3DAEEF?style=flat-square&logo=cpp" alt="C++">
+	<img src="https://img.shields.io/badge/-Dart-001FFF?style=flat-square&logo=dart" alt="Dart">
+	<img src="https://img.shields.io/badge/-Processing-001FFF?style=flat-square&logo=processing" alt="Processing">
 	<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi" alt="RaspberryPi">
 	<img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure" alt="MicrosoftAzure">
 	<img src="https://img.shields.io/badge/-Apple-696969?style=flat-square&logo=apple" alt="Apple">
