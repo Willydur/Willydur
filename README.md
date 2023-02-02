@@ -4,7 +4,7 @@
 	<p>💻 J'aime développer et découvrir de nouvelles choses !</p>
 	<p>🏌️ J'aime faire du sport 🏃</p>
 	<p>🌳 J'aime le calme</p>
-	<p>📬 Vous souhaitez me contacter ? <a href="mailto:william.bergue@supinfo.com">elias@elidev.fr</a></p>
+	<p>📬 Vous souhaitez me contacter ? <a href="mailto:william.bergue@supinfo.com">william.bergue@supinfo.com</a></p>
 	<p><a target="_blank"href="https://www.linkedin.com/in/bergue-william-supinfo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 	<br>
 	<p>👥 Mon copilot de Dev <a href="https://github.com/Eliftb186">Eli l'as 🂡</a> </p>
