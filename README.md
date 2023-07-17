@@ -28,3 +28,5 @@
 	<img src="https://img.shields.io/badge/-Apple-696969?style=flat-square&logo=apple" alt="Apple">
 	<img src="https://img.shields.io/badge/-Lunix-white?style=flat-square&logo=linux" alt="Linux">
 	<img src="https://img.shields.io/badge/-Windows-3DAEEF?style=flat-square&logo=windows" alt="Windows">
+ 	<img src="https://img.shields.io/badge/-SvelteKit?style=flat-square" alt="sveltekit">
+
