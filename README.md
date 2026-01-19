@@ -1,31 +1,95 @@
 <div align="center">
-	<h1>Salut, je suis William 👋👨‍💻</h1>
-	<p>👨‍🎓 Je suis étudiant à SupInfo sur le campus de Paris !</p>
-	<p>💻 J'aime développer et découvrir de nouvelles choses !</p>
-	<p>🏌️ J'aime faire du sport 🏃</p>
-	<p>🌳 J'aime le calme</p>
-	<p>📬 Vous souhaitez me contacter ? <a href="mailto:william.bergue@supinfo.com">william.bergue@supinfo.com</a></p>
-	<p><a target="_blank"href="https://www.linkedin.com/in/bergue-william-supinfo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-	<br>
-	<p>👥 Mon copilot de Dev <a href="https://github.com/eliasctl">Eli l'as 🂡</a> </p>
-	<br>
-	<h1>⚡ Mon Savoir faire</h1>
-	<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python">
-	<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-	<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3">
-	<img src="https://img.shields.io/badge/-MySQL-03224C?style=flat-square&logo=mysql" alt="MySQL">
-	<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
-	<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" alt="NodeJS">
-	<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
-	<img src="https://img.shields.io/badge/-Lua-0008FF?style=flat-square&logo=lua" alt="Lua">
-	<img src="https://img.shields.io/badge/-Swift-696969?style=flat-square&logo=swift" alt="Switf">
-	<img src="https://img.shields.io/badge/-C++-3DAEEF?style=flat-square&logo=cpp" alt="C++">
-	<img src="https://img.shields.io/badge/--007CC7?style=flat-square&logo=c" alt="C">
-	<img src="https://img.shields.io/badge/-Dart-001FFF?style=flat-square&logo=dart" alt="Dart">
-	<img src="https://img.shields.io/badge/-Processing-001FFF?style=flat-square&logo=processing" alt="rocessing">
-	<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi" alt="RaspberryPi">
-	<img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure" alt="MicrosoftAzure">
-	<img src="https://img.shields.io/badge/-Apple-696969?style=flat-square&logo=apple" alt="Apple">
-	<img src="https://img.shields.io/badge/-Lunix-white?style=flat-square&logo=linux" alt="Linux">
-	<img src="https://img.shields.io/badge/-Windows-3DAEEF?style=flat-square&logo=windows" alt="Windows">
+
+# Hey, je suis William 👋
+
+### Étudiant en Master 1 Informatique | Passionné Data, IA & Web
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-williambergue.com-2c3e50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://williambergue.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-William%20Bergue-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bergue-william-supinfo/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william.bergue@supinfo.com)
+
+</div>
+
+---
+
+## 🚀 À propos de moi
+
+```python
+class William:
+    def __init__(self):
+        self.role = "Étudiant M1 @ SUPINFO Paris"
+        self.recherche = "Alternance Data / IA / Développement Web"
+        self.entreprise = "Fondateur de Codexbot"
+        self.passions = ["Data Science", "Intelligence Artificielle", "Développement Web"]
+```
+
+- 🎓 Étudiant en **Master 1 Informatique** à SUPINFO
+- 💼 Fondateur de **Codexbot** — Auto-entreprise de développement web
+- 🔍 En recherche d'**alternance** pour 2025-2026
+- 🤝 Mon copilot de dev : [@eliasctl](https://github.com/eliasctl)
+
+---
+
+## 💼 Expériences
+
+| Période | Poste | Entreprise |
+|---------|-------|------------|
+| 2023-2024 | Développeur Full-Stack (Alternance) | **Tilvest** |
+| 2022-2023 | Stagiaire Développeur IA | **Craftvalue** |
+| 2021-2022 | Stagiaire Développeur | **Engie** |
+
+---
+
+## 🛠️ Stack Technique
+
+**Langages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Outils**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Bases de données**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Systèmes**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willydur&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willydur&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**🌱 Toujours en train d'apprendre, toujours en train de coder.**
+
+</div>
 
