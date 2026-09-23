@@ -2,7 +2,7 @@
 
 # Hey, je suis William 👋
 
-### Étudiant en Master 1 Informatique | Passionné Data, IA & Web
+### Étudiant en Master 2 Informatique | Passionné Data, IA & Web
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-williambergue.com-2c3e50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://williambergue.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-William%20Bergue-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bergue-william-supinfo/)
